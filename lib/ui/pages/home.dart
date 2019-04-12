@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import '../../resources/app_config.dart';
 
 class MyHomePage extends StatefulWidget {
   @override
@@ -18,12 +19,13 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Flutter Flavors"),
+        title: Text(AppConfig.of(context).appTitle),
       ),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
+            Text("You are running ${AppConfig.of(context).buildFlavor} flavor"),
             Text(
               'You have pushed the button this many times:',
             ),
