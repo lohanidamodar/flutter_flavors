@@ -10,6 +10,8 @@ This is a companion repository for my youtube tutorial regarding flutter flavors
 In this part, we will learn to separate build environment and configs in dart side, we will learn to create separate main files each for the build flavors we want and apply different configs to each app.
 
 ## Part 2
+- Starting code is in [part2-start](https://github.com/lohanidamodar/flutter_flavors/tree/part2-start) branch.
+- Final code is in [part2-finish](https://github.com/lohanidamodar/flutter_flavors/tree/part2-finish) branch
 In part 2 we will learn to setup flavors in android side which will allow us to use two separate firebase configs based on flavors in our flutter project in android.
 
 ## Part 3
