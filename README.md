@@ -1,16 +1,16 @@
-# flutter_flavors
+# Flutter Flavors
+Separating build environments in flutter
 
-A new Flutter project.
+This is a companion repository for my youtube tutorial regarding flutter flavors. This consists of a 3 part tutorial.
 
-## Getting Started
+## Part 1
+- Starting code is in [master](https://github.com/lohanidamodar/flutter_flavors/tree/master) branch.
+- Final code is in [part1](https://github.com/lohanidamodar/flutter_flavors/tree/part1) branch
 
-This project is a starting point for a Flutter application.
+In this part, we will learn to separate build environment and configs in dart side, we will learn to create separate main files each for the build flavors we want and apply different configs to each app.
 
-A few resources to get you started if this is your first Flutter project:
+## Part 2
+In part 2 we will learn to setup flavors in android side which will allow us to use two separate firebase configs based on flavors in our flutter project in android.
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Part 3
+In part 3 we will learn to setup schemas in iOS side, and make our flutter app able to use separate firebase config in iOS. 
