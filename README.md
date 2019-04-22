@@ -15,4 +15,6 @@ In this part, we will learn to separate build environment and configs in dart si
 In part 2 we will learn to setup flavors in android side which will allow us to use two separate firebase configs based on flavors in our flutter project in android.
 
 ## Part 3
+- Starting code is in [part3-start](https://github.com/lohanidamodar/flutter_flavors/tree/part3-start) branch.
+- Final code is in [part3-finish](https://github.com/lohanidamodar/flutter_flavors/tree/part3-finish) branch
 In part 3 we will learn to setup schemas in iOS side, and make our flutter app able to use separate firebase config in iOS. 
