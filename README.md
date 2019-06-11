@@ -3,6 +3,8 @@ Separating build environments in flutter
 
 This is a companion repository for my youtube tutorial regarding flutter flavors. This consists of a 3 part tutorial.
 
+### [Companion Tutorial Videos ](https://www.youtube.com/watch?v=DgGUtTUatDQ&list=PLUiueC0kTFqLdkuj4j8FNy1qlzcI0nyCu)
+
 ## Part 1
 - Starting code is in [master](https://github.com/lohanidamodar/flutter_flavors/tree/master) branch.
 - Final code is in [part1](https://github.com/lohanidamodar/flutter_flavors/tree/part1) branch
